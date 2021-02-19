@@ -8,9 +8,8 @@ O presente projeto é uma interface homem maquina desenvolvido pos discentes do 
   <a href="https://youtu.be/XzZY5017TaU"><img src="https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/Miniatura.png">
 </p>
 
-
  <br/><br/>
-[![Watch the video](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/Miniatura.png)](https://youtu.be/XzZY5017TaU)
+
 
 #### Componentes:
 
