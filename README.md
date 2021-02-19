@@ -52,11 +52,9 @@ siga os passos descritos [aqui](https://randomnerdtutorials.com/installing-the-e
 	
   - Faça o upload do codigo para sua placa. Logo apos o upload o projeto já estara funcionando em seu microcontrolador
 		OBS: Algumas placas ESP32 necessitam que o botao "boot" na placa, seja mantido pressionado durante o upload do codigo.
-
-#### Funcionamento:
-
+<br/><br/>
    ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/test.gif)
-
+<br/><br/>
 
 ### Licença:
 
