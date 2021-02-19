@@ -2,8 +2,7 @@
 [![N|Solid](https://eventos.ifg.edu.br/semanai2c/wp-content/uploads/sites/7/2016/08/marca-ifg-2015-todas-as-verses.png)](https://www.ifg.edu.br/goiania)
 
 # IHM (Criptografia de mensagens)
-
-	- O presente projeto é uma interface homem maquina desenvolvido pos discentes do IFG, utilizando um teclado matricial 4x4 e um display de 7 segmentos.
+O presente projeto é uma interface homem maquina desenvolvido pos discentes do IFG, utilizando um teclado matricial 4x4 e um display de 7 segmentos.
 
 [![Watch the video](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/Miniatura.png)](https://youtu.be/XzZY5017TaU)
 
