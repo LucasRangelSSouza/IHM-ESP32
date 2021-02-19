@@ -5,7 +5,9 @@
 
 O presente projeto é uma interface homem maquina desenvolvido pos discentes do IFG, utilizando um teclado matricial 4x4 e um display de 7 segmentos.
  
-<div style="text-align:center">[![Watch the video](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/Miniatura.png)](https://youtu.be/XzZY5017TaU)</div>
+<div style="text-align:center">
+![Watch the video](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/Miniatura.png)](https://youtu.be/XzZY5017TaU)
+</div>
 
  
 #### Componentes:
