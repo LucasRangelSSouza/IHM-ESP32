@@ -4,11 +4,8 @@
 # IHM (Criptografia de mensagens)
 
 O presente projeto é uma interface homem maquina desenvolvido pos discentes do IFG, utilizando um teclado matricial 4x4 e um display de 7 segmentos.
-  <br/><br/>
   <iframe width="857" height="482" src="https://www.youtube.com/embed/XzZY5017TaU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><br/>
-[![Watch the video](https://img.youtube.com/vi/XzZY5017TaU/maxresdefault.jpg)](https://youtu.be/XzZY5017TaU)
-  <br/><br/>
+
 #### Componentes:
 
   - ESP32 (38 Pinos)
