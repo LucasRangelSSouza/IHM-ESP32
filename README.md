@@ -8,16 +8,16 @@ O presente projeto é uma interface homem maquina desenvolvido pos discentes do 
 #### Componentes:
 
   - ESP32 (38 Pinos)
-   ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/ESP32-DEVKIT-V4-pinout-v2.jpg  =250x250)
+   ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/ESP32-DEVKIT-V4-pinout-v2.jpg)
   
   - Teclado matricial 4x4
-  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/teclado-membrana-4x4.jpg  =250x250)
+  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/teclado-membrana-4x4.jpg)
   - Display de 7 segmentos (Anodo comum)
-  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/display7.jpg  =250x250)
+  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/display7.jpg)
   - 1 Resistor de 68 ohms
-  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/68ohms.png =250x250)
+  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/68ohms.png)
   - 4 Resistores de 1Kohms
-  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/1kohms.png  =250x250)
+  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/1kohms.png )
   
 #### Montagem pratica:
 
@@ -30,9 +30,9 @@ O presente projeto é uma interface homem maquina desenvolvido pos discentes do 
   - Para gravar a firmware no microcontrolador utilizando a Arduino IDE
 siga os passos descritos [aqui](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
 
-  - Logo após configurar o ESP32 na arduino IDE clone o presente repositorio(É necessario ter um cliente [git](https://git-scm.com/) instalado ).Para clonar o diretorio execute no terminal ou no prompt:
+  - Logo após configurar o ESP32 na arduino IDE, clone o presente repositorio (É necessario ter um cliente [git](https://git-scm.com/) instalado ).Para clonar o diretorio execute no terminal ou no prompt:
 	```sh
-	$ git clone https://github.com/LucasRangelSSouza/criptografiaMsgs.git
+	$ git clone https://github.com/LucasRangelSSouza/IHM-ESP32.git
 	```
   - Apos clonado abra o ProjetoIHM.ino, no menu de placas selecione a placa: "ESP32 Dev-Module".
 	![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/selectPlaca.png)
