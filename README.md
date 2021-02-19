@@ -8,15 +8,16 @@ O presente projeto é uma interface homem maquina desenvolvido pos discentes do 
 #### Componentes:
 
   - ESP32 (38 Pinos)
-   ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/ESP32-DEVKIT-V4-pinout-v2.jpg)
+   ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/ESP32-DEVKIT-V4-pinout-v2.jpg  =250x)
+  
   - Teclado matricial 4x4
-  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/teclado-membrana-4x4.jpg)
+  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/teclado-membrana-4x4.jpg  =250x)
   - Display de 7 segmentos (Anodo comum)
-  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/display7.jpg)
+  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/display7.jpg  =250x)
   - 1 Resistor de 68 ohms
-  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/68ohms.png)
+  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/68ohms.png =250x)
   - 4 Resistores de 1Kohms
-  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/1kohms.png)
+  ![](https://github.com/LucasRangelSSouza/IHM-ESP32/blob/main/assets/1kohms.png  =250x)
   
 #### Montagem pratica:
 
